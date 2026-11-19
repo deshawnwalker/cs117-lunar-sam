@@ -1,0 +1,9 @@
+{
+  "name": "Apollo 11 (mare)",
+  "role": "tuning",
+  "lroc_site_id": "NAC_PHO_E010N0230",
+  "center_lat": 0.67416,
+  "center_lon": 23.47314,
+  "crop_px": 1000,
+  "res_m": 1.0
+}

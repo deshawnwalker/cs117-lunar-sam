@@ -1,0 +1,7 @@
+target_angle,product_id,incidence,orig_res_m,pct_valid,png
+15,M188085530R,15.85,1.0,100.0,/content/drive/MyDrive/cs117/apollo11/a11_inc15.png
+30,M111443315R,26.24,0.5,100.0,/content/drive/MyDrive/cs117/apollo11/a11_inc30.png
+45,M1121074527R,41.09,1.0,100.0,/content/drive/MyDrive/cs117/apollo11/a11_inc45.png
+60,M129133239R,53.13,0.4,100.0,/content/drive/MyDrive/cs117/apollo11/a11_inc60.png
+75,M162154734R,73.47,0.4,100.0,/content/drive/MyDrive/cs117/apollo11/a11_inc75.png
+85,M116161085R,81.78,0.4,100.0,/content/drive/MyDrive/cs117/apollo11/a11_inc85.png
